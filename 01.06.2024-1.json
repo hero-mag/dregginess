@@ -1,0 +1,25 @@
+{
+    "name": "Terry Miller",
+    "age": 23,
+    "address": {
+        "street": "Baker Row",
+        "city": "North Ernest",
+        "state": "New Hampshire",
+        "zip": "32667"
+    },
+    "contact": {
+        "phone": "494-323-0081",
+        "servicePhone": "800906349"
+    },
+    "birthday": "2002-20-11",
+    "ip": "211.224.221.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Consider industry use minute bar open guess. Treat might reflect its nor capital. Computer place son course million line.",
+        "bio": "Collection exist realize whether base travel. Behavior reason tough research social similar. Carry actually one wish expert traditional quite resource."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
