@@ -1,0 +1,25 @@
+{
+    "name": "Blake Morris",
+    "age": 19,
+    "address": {
+        "street": "Haynes Islands",
+        "city": "South Shelby",
+        "state": "Delaware",
+        "zip": "11752"
+    },
+    "contact": {
+        "phone": "717.392.6902x0065",
+        "servicePhone": "800830806"
+    },
+    "birthday": "2006-06-08",
+    "ip": "58.187.235.5",
+    "foo": "bar",
+    "profile": {
+        "about": "Draw the stage yet. Them politics significant town raise. Baby tax safe imagine long style position full.",
+        "bio": "Security environment already hope student. Pattern born bar woman road experience.\nExperience play research black. Run practice yourself once. Board a American marriage culture government."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
