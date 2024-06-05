@@ -1,0 +1,25 @@
+{
+    "name": "Marcus Koch",
+    "age": 2,
+    "address": {
+        "street": "Katrina Extension",
+        "city": "Port Nicholasville",
+        "state": "Montana",
+        "zip": "26587"
+    },
+    "contact": {
+        "phone": "+1-254-293-3533x530",
+        "servicePhone": "800625591"
+    },
+    "birthday": "2023-13-08",
+    "ip": "1.238.193.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Gas laugh Republican local. Skin sound suddenly together voice. Skin admit heavy particular produce child wait view. Sign lose under prove much.",
+        "bio": "Or low hair serve man senior tree. True cold item animal. Second itself of foot anyone attention job. Available use blood.\nGood animal but news daughter. Skill assume against."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
