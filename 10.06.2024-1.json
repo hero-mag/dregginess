@@ -1,0 +1,25 @@
+{
+    "name": "Jorge Mckee",
+    "age": 9,
+    "address": {
+        "street": "Steven Centers",
+        "city": "Morganberg",
+        "state": "Texas",
+        "zip": "20755"
+    },
+    "contact": {
+        "phone": "907-659-3297",
+        "servicePhone": "800712120"
+    },
+    "birthday": "2016-07-11",
+    "ip": "223.180.85.110",
+    "foo": "bar",
+    "profile": {
+        "about": "How laugh American see. Range wish force. Indeed television throughout affect.\nAdmit prove growth order lay study great. Player few across bill right. Tough quite affect worry produce herself easy.",
+        "bio": "Sit agree fear popular run right option. Sister enough later mention community."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
