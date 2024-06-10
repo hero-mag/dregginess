@@ -1,0 +1,25 @@
+{
+    "name": "Douglas Pratt",
+    "age": 87,
+    "address": {
+        "street": "Rivera Passage",
+        "city": "Williamburgh",
+        "state": "Florida",
+        "zip": "63651"
+    },
+    "contact": {
+        "phone": "+1-686-376-1122",
+        "servicePhone": "800303127"
+    },
+    "birthday": "1938-17-09",
+    "ip": "45.204.100.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Recognize hot bit do force woman everything. End foot information standard state black vote recognize. Physical early wait.",
+        "bio": "Feeling rock game new gun already civil. Top base protect give.\nThose food today I together. Explain nor across. Himself law amount his hospital."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
