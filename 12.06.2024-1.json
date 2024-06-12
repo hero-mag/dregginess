@@ -1,0 +1,25 @@
+{
+    "name": "Stacy King",
+    "age": 115,
+    "address": {
+        "street": "Garcia Green",
+        "city": "Markstad",
+        "state": "Kansas",
+        "zip": "94253"
+    },
+    "contact": {
+        "phone": "+1-601-413-0825x012",
+        "servicePhone": "800135721"
+    },
+    "birthday": "1910-08-04",
+    "ip": "137.28.29.68",
+    "foo": "bar",
+    "profile": {
+        "about": "Since see goal night firm. Board hold today thought.\nMaintain form series back. Population management behind land road.",
+        "bio": "Concern stop address run thus popular carry. Eight ability range mind particularly manager. Act certain wide close method.\nChoice play cup break perhaps. Until military perform."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
