@@ -1,0 +1,25 @@
+{
+    "name": "Krista Walker",
+    "age": 41,
+    "address": {
+        "street": "Tamara Cliffs",
+        "city": "South Brittany",
+        "state": "Delaware",
+        "zip": "91714"
+    },
+    "contact": {
+        "phone": "232.265.6111x871",
+        "servicePhone": "800643663"
+    },
+    "birthday": "1984-23-08",
+    "ip": "160.170.210.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Remember woman activity. Article line difficult along others factor. Bit behavior against southern itself.",
+        "bio": "Million too subject like very world necessary. Way bit practice want college mother project.\nSeason positive find of. Pull top character dinner bill not."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
