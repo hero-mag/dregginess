@@ -1,0 +1,25 @@
+{
+    "name": "Michael James",
+    "age": 73,
+    "address": {
+        "street": "Riley Forks",
+        "city": "New Candicetown",
+        "state": "Idaho",
+        "zip": "10155"
+    },
+    "contact": {
+        "phone": "931.421.2100x206",
+        "servicePhone": "800835990"
+    },
+    "birthday": "1952-24-10",
+    "ip": "3.66.10.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Significant none brother hotel front. Thing so different at role practice.",
+        "bio": "Let what skin happy. May surface minute prevent laugh travel month. Themselves our himself remain audience them agency."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
