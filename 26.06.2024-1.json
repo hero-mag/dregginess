@@ -1,0 +1,25 @@
+{
+    "name": "Crystal King",
+    "age": 96,
+    "address": {
+        "street": "Rogers Street",
+        "city": "Hestertown",
+        "state": "New Hampshire",
+        "zip": "22376"
+    },
+    "contact": {
+        "phone": "935-420-6061x3619",
+        "servicePhone": "800163562"
+    },
+    "birthday": "1929-17-08",
+    "ip": "195.103.47.121",
+    "foo": "bar",
+    "profile": {
+        "about": "Performance present herself seek piece section. Class become carry along. Spend cut short blue support.\nHospital series I opportunity party realize this.",
+        "bio": "Left policy of. Information good nothing enter. Industry certainly what though national.\nGet reflect true wish truth."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
