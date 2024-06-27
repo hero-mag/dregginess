@@ -1,0 +1,25 @@
+{
+    "name": "Leroy Ramirez",
+    "age": 89,
+    "address": {
+        "street": "Chen Bypass",
+        "city": "Marcuschester",
+        "state": "North Dakota",
+        "zip": "07053"
+    },
+    "contact": {
+        "phone": "(876)664-8315",
+        "servicePhone": "800812100"
+    },
+    "birthday": "1936-13-09",
+    "ip": "33.45.208.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Worry administration later design.\nEntire despite either upon.",
+        "bio": "Prevent range claim according. Believe meeting recent. Before interesting whether tend personal cold suddenly.\nCity technology pretty. Let must difference account own."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
