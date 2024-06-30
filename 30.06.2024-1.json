@@ -1,0 +1,25 @@
+{
+    "name": "David Nielsen",
+    "age": 108,
+    "address": {
+        "street": "Pratt Field",
+        "city": "South Justinshire",
+        "state": "Utah",
+        "zip": "13872"
+    },
+    "contact": {
+        "phone": "001-579-408-1729x03601",
+        "servicePhone": "800289092"
+    },
+    "birthday": "1917-21-05",
+    "ip": "21.204.217.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Despite factor always military. Able board senior.\nHalf attack course network stand baby center station. Full either turn tree space.",
+        "bio": "Majority fear country. Business unit tell at build whole arm."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
