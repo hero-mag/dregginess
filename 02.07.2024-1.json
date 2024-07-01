@@ -1,0 +1,25 @@
+{
+    "name": "Seth Weaver",
+    "age": 38,
+    "address": {
+        "street": "Cruz Greens",
+        "city": "Chadshire",
+        "state": "New Jersey",
+        "zip": "05783"
+    },
+    "contact": {
+        "phone": "(655)813-0078x1943",
+        "servicePhone": "800359457"
+    },
+    "birthday": "1987-18-12",
+    "ip": "158.92.147.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Thank to goal goal nearly pick commercial. Upon say laugh top. Only situation career find local movie.\nProduction year board fire heavy.",
+        "bio": "Detail production peace woman few behind. Chair state several wife.\nLevel property film. Prove specific account believe fine data."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
