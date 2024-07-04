@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Brown",
+    "age": 7,
+    "address": {
+        "street": "Butler Brook",
+        "city": "Myersport",
+        "state": "New Hampshire",
+        "zip": "76290"
+    },
+    "contact": {
+        "phone": "392.746.1585x9467",
+        "servicePhone": "800850533"
+    },
+    "birthday": "2018-19-01",
+    "ip": "200.110.165.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Age join hard treat we enjoy. Require board kid open control although know. Long sea such produce case fund expect.",
+        "bio": "Rule memory back blood development. Commercial medical yard. Door probably use thing bit century. Series degree bag friend evidence talk voice."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
