@@ -1,0 +1,25 @@
+{
+    "name": "Jill Macdonald",
+    "age": 40,
+    "address": {
+        "street": "Hall Station",
+        "city": "Christopherbury",
+        "state": "New York",
+        "zip": "37840"
+    },
+    "contact": {
+        "phone": "973.716.8068x827",
+        "servicePhone": "800478674"
+    },
+    "birthday": "1985-15-12",
+    "ip": "195.60.17.13",
+    "foo": "bar",
+    "profile": {
+        "about": "The call position speech. Still large view apply throughout. Article science while plan forward coach oil.\nEach gas into paper. Strategy somebody leg day red.",
+        "bio": "Set foreign back become environment.\nUse because agreement. Image laugh claim history describe even."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
