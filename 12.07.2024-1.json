@@ -1,0 +1,25 @@
+{
+    "name": "Valerie Williams",
+    "age": 17,
+    "address": {
+        "street": "Murphy Spur",
+        "city": "Walkerside",
+        "state": "Georgia",
+        "zip": "62764"
+    },
+    "contact": {
+        "phone": "(422)228-8912",
+        "servicePhone": "800145206"
+    },
+    "birthday": "2008-27-04",
+    "ip": "172.180.163.143",
+    "foo": "bar",
+    "profile": {
+        "about": "Involve far blue movie minute somebody dream. Value campaign amount modern keep natural.",
+        "bio": "About policy either skill. Reduce southern soon maybe remain business information.\nSure region stop region side everyone understand."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
