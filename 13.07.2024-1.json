@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Perez",
+    "age": 74,
+    "address": {
+        "street": "Brown Shoals",
+        "city": "Lake Alexandermouth",
+        "state": "New Mexico",
+        "zip": "18837"
+    },
+    "contact": {
+        "phone": "698-886-6367x0326",
+        "servicePhone": "800456778"
+    },
+    "birthday": "1951-11-03",
+    "ip": "104.253.148.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Seek win project campaign draw run real. At message possible suffer likely. Data radio four.\nSurface less amount race plant science serious. Knowledge none parent common sound trip church personal.",
+        "bio": "Clear teacher wish check color important. Threat probably share health between analysis. Floor tonight read despite newspaper."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
