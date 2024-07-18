@@ -1,0 +1,25 @@
+{
+    "name": "Michael Russell",
+    "age": 41,
+    "address": {
+        "street": "Fuller Forks",
+        "city": "Port Brittany",
+        "state": "Iowa",
+        "zip": "93880"
+    },
+    "contact": {
+        "phone": "(502)344-3336",
+        "servicePhone": "800961170"
+    },
+    "birthday": "1984-11-12",
+    "ip": "164.167.203.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Because entire traditional hot writer. Article lay community show. Five simple public audience this throw point example.",
+        "bio": "Little than present way list seem drop. Other service early would. Toward choice improve black give.\nWhile affect will amount. Likely son program Mr building animal."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
