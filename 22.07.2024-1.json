@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Moore",
+    "age": 58,
+    "address": {
+        "street": "Rogers Plaza",
+        "city": "Harperstad",
+        "state": "Minnesota",
+        "zip": "05064"
+    },
+    "contact": {
+        "phone": "(451)348-2611",
+        "servicePhone": "800989326"
+    },
+    "birthday": "1967-25-12",
+    "ip": "26.160.191.143",
+    "foo": "bar",
+    "profile": {
+        "about": "Prepare success his nothing. Project beautiful man town impact win better.",
+        "bio": "Give approach word entire. Hit everybody nature front threat appear you job. Page rate lose environmental."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
