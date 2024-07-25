@@ -1,0 +1,25 @@
+{
+    "name": "Robert Davis",
+    "age": 113,
+    "address": {
+        "street": "James Keys",
+        "city": "East Bailey",
+        "state": "New Jersey",
+        "zip": "65547"
+    },
+    "contact": {
+        "phone": "+1-784-334-9413x430",
+        "servicePhone": "800239964"
+    },
+    "birthday": "1912-04-01",
+    "ip": "24.49.227.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Such help campaign table. Raise moment if machine.\nMiddle product reach only choice community process. Wear picture bar force although. Wind human successful quite notice.",
+        "bio": "Interesting choose glass identify leader kitchen executive. Less staff success of. Part argue field attack expert.\nRise vote first summer which task. Process need development future church."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
