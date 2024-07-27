@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Crawford",
+    "age": 17,
+    "address": {
+        "street": "Ethan Forks",
+        "city": "South Kristin",
+        "state": "Nebraska",
+        "zip": "34373"
+    },
+    "contact": {
+        "phone": "+1-569-924-9486",
+        "servicePhone": "800855344"
+    },
+    "birthday": "2008-29-06",
+    "ip": "119.184.220.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Agree your of which while leave up right. Break skill happen sit prepare. His again early run.\nSafe claim to participant she. Within instead listen suffer include page.",
+        "bio": "Himself child range best. Property century include hair. Worker we of three."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
