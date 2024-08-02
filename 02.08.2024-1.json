@@ -1,0 +1,25 @@
+{
+    "name": "Kathleen Bennett",
+    "age": 31,
+    "address": {
+        "street": "Potter Stravenue",
+        "city": "Williamston",
+        "state": "Iowa",
+        "zip": "44061"
+    },
+    "contact": {
+        "phone": "001-424-579-3472x458",
+        "servicePhone": "800229346"
+    },
+    "birthday": "1994-03-03",
+    "ip": "37.35.113.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Decision environmental past nature parent newspaper. Understand table imagine.\nLong almost care win too body. Audience game a go people capital family force. His cover the answer recent.",
+        "bio": "Particular maybe some example father consumer building. Art defense century a federal hotel. Owner list yes base minute probably."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
