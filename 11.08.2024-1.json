@@ -1,0 +1,25 @@
+{
+    "name": "Jasmine Ramsey",
+    "age": 48,
+    "address": {
+        "street": "Clinton Streets",
+        "city": "Amberside",
+        "state": "New Hampshire",
+        "zip": "87437"
+    },
+    "contact": {
+        "phone": "+1-965-390-5264x791",
+        "servicePhone": "800018361"
+    },
+    "birthday": "1977-26-08",
+    "ip": "83.102.182.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Year apply lawyer know. Recently century those never question scientist. Pattern control raise democratic way attorney order defense.",
+        "bio": "Paper wish wonder interesting even. According entire cut south capital mother development.\nPicture oil production system interview responsibility. Hold fine behind this against remember analysis."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
