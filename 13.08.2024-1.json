@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Reid",
+    "age": 29,
+    "address": {
+        "street": "Nicole Oval",
+        "city": "Kathyshire",
+        "state": "Alaska",
+        "zip": "80960"
+    },
+    "contact": {
+        "phone": "418-247-5861",
+        "servicePhone": "800446846"
+    },
+    "birthday": "1996-19-12",
+    "ip": "134.46.141.127",
+    "foo": "bar",
+    "profile": {
+        "about": "These operation home model. Woman write open protect happy government relationship. Moment popular in finally full up.",
+        "bio": "Positive entire cell pattern. Show exist loss yard everybody. If appear me responsibility weight."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
