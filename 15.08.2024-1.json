@@ -1,0 +1,25 @@
+{
+    "name": "Michael Martin",
+    "age": 99,
+    "address": {
+        "street": "Drew Hills",
+        "city": "Lake Dawnton",
+        "state": "Wisconsin",
+        "zip": "76809"
+    },
+    "contact": {
+        "phone": "430-894-1995",
+        "servicePhone": "800879149"
+    },
+    "birthday": "1926-13-07",
+    "ip": "219.244.61.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Couple stay yes bar. Yourself song else. Create clear ask natural assume they at reason.\nMovie term indeed strategy recently. Prepare yes our resource. Court away special other risk toward age.",
+        "bio": "Toward professional really arrive production. Reveal health manager military.\nChoose forward lot.\nCover trial station accept. More little back. Add under purpose they growth short."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
