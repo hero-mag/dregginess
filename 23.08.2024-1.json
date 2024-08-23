@@ -1,0 +1,25 @@
+{
+    "name": "Keith Mullins",
+    "age": 87,
+    "address": {
+        "street": "Stanton Stream",
+        "city": "Diazstad",
+        "state": "New Mexico",
+        "zip": "81823"
+    },
+    "contact": {
+        "phone": "689-235-8399",
+        "servicePhone": "800379218"
+    },
+    "birthday": "1938-31-01",
+    "ip": "107.66.140.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Reach condition be and far feeling present from. Act see six. Summer social one because most throw.\nEven wrong tough turn teach visit if.",
+        "bio": "Miss lot form forget. Over once citizen sea benefit example.\nDiscussion woman article recognize maybe month land. There news sit others bag their of field."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
