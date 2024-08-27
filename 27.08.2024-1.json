@@ -1,0 +1,25 @@
+{
+    "name": "William Robinson",
+    "age": 45,
+    "address": {
+        "street": "Jamie Orchard",
+        "city": "South Lydia",
+        "state": "Ohio",
+        "zip": "25981"
+    },
+    "contact": {
+        "phone": "417-332-3724x956",
+        "servicePhone": "800688797"
+    },
+    "birthday": "1980-03-06",
+    "ip": "95.89.9.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Ask mission husband state. Everyone simple require threat whose send. Worker church special.\nCheck relate doctor beautiful.",
+        "bio": "Practice south fact along avoid mother loss both. Simply begin science million table race new. Against form piece face.\nIncluding anyone simple. Card push man address."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
