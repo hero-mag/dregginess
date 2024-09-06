@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Johnson",
+    "age": 100,
+    "address": {
+        "street": "Kayla Ford",
+        "city": "Guerrerofurt",
+        "state": "Wisconsin",
+        "zip": "74767"
+    },
+    "contact": {
+        "phone": "563.624.8719x23814",
+        "servicePhone": "800973874"
+    },
+    "birthday": "1925-16-08",
+    "ip": "209.22.251.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Middle political actually establish public control reflect. Leave service knowledge city recognize class tough spring. Magazine open evening treatment or.",
+        "bio": "Sound education computer. Interesting claim society accept dog research. Fly system bit.\nProject girl live. Decision debate realize he half. Fire he course break."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
