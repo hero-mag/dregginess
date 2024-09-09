@@ -1,0 +1,25 @@
+{
+    "name": "Gary Leblanc",
+    "age": 7,
+    "address": {
+        "street": "Ramos Lodge",
+        "city": "West Benjamin",
+        "state": "Delaware",
+        "zip": "22705"
+    },
+    "contact": {
+        "phone": "(341)491-8049x74395",
+        "servicePhone": "800384589"
+    },
+    "birthday": "2018-25-05",
+    "ip": "167.167.199.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Avoid carry despite much. Not leg Mr morning become around whom.\nHappy generation break century. Return increase child almost religious often stay.",
+        "bio": "Wrong history evening significant chance start. Cut address seat catch.\nNeed goal customer important meet argue among usually. Around floor believe defense especially. Information event turn."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
