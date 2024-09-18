@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Martin",
+    "age": 105,
+    "address": {
+        "street": "Brooke Extension",
+        "city": "New Timothychester",
+        "state": "Oregon",
+        "zip": "67057"
+    },
+    "contact": {
+        "phone": "001-673-772-2895x9753",
+        "servicePhone": "800871594"
+    },
+    "birthday": "1920-03-05",
+    "ip": "196.255.62.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Break might page identify factor after. Line race suddenly occur camera far war.\nPublic our teacher his. Leader change foot.",
+        "bio": "Opportunity process lawyer investment. Hour whole scene most show school pick. Guess movie address size despite size.\nMovement share experience fill. Seven notice card still."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
