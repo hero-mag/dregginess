@@ -1,0 +1,25 @@
+{
+    "name": "Michael Vang",
+    "age": 30,
+    "address": {
+        "street": "Wood Rue",
+        "city": "South Michael",
+        "state": "Wyoming",
+        "zip": "91379"
+    },
+    "contact": {
+        "phone": "(651)954-1382",
+        "servicePhone": "800575754"
+    },
+    "birthday": "1995-11-06",
+    "ip": "83.146.155.5",
+    "foo": "bar",
+    "profile": {
+        "about": "Their people white energy democratic. Evening will produce.\nThought whose sister coach not movie. Business she onto blue rule card add. Once various avoid win nor challenge.",
+        "bio": "Race early according go sure treatment. Public real him take bar walk. Such phone book consumer hit though.\nLeader despite trade agree. East exactly stage particular know."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
