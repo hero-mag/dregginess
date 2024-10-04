@@ -1,0 +1,25 @@
+{
+    "name": "James Moore",
+    "age": 5,
+    "address": {
+        "street": "Murphy Avenue",
+        "city": "Benjaminstad",
+        "state": "West Virginia",
+        "zip": "85426"
+    },
+    "contact": {
+        "phone": "+1-655-803-7717x16248",
+        "servicePhone": "800967193"
+    },
+    "birthday": "2020-28-04",
+    "ip": "165.131.236.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Finally decision no. Important serve under technology imagine itself. Serve woman appear role dinner.",
+        "bio": "About hot million growth truth add. Machine job can whole letter according reduce.\nWeight sometimes debate measure. Keep business better age for Democrat huge."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
