@@ -1,0 +1,25 @@
+{
+    "name": "Deanna Greene",
+    "age": 72,
+    "address": {
+        "street": "Wade Club",
+        "city": "Alexamouth",
+        "state": "Alaska",
+        "zip": "14841"
+    },
+    "contact": {
+        "phone": "+1-810-872-5878",
+        "servicePhone": "800392645"
+    },
+    "birthday": "1953-28-02",
+    "ip": "222.171.155.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Spring conference race research. Man item trial outside set staff father.\nMember strong however will go. Like large about challenge newspaper.",
+        "bio": "Wait two white million election. Mention teach today hit between American trouble international. College force fact front chance really huge."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
