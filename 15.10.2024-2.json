@@ -1,0 +1,25 @@
+{
+    "name": "Trevor Ortiz",
+    "age": 65,
+    "address": {
+        "street": "Tracy Rest",
+        "city": "Port Alyssa",
+        "state": "Nebraska",
+        "zip": "03120"
+    },
+    "contact": {
+        "phone": "7315643332",
+        "servicePhone": "800114946"
+    },
+    "birthday": "1960-05-07",
+    "ip": "72.124.58.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Outside goal none lead ok information. View the positive shake. Drug report interview size during analysis development.\nSpring anyone worry stock those collection house. Time movie gun way specific.",
+        "bio": "Management why serve. Nation fact sport others act reason make. Reduce cell avoid might with research.\nSeason particular forward. Woman what improve."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
