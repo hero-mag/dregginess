@@ -1,0 +1,25 @@
+{
+    "name": "Tyler Kidd",
+    "age": 22,
+    "address": {
+        "street": "Phelps Circle",
+        "city": "West Richard",
+        "state": "Louisiana",
+        "zip": "38558"
+    },
+    "contact": {
+        "phone": "+1-201-664-6907x3390",
+        "servicePhone": "800047359"
+    },
+    "birthday": "2003-14-01",
+    "ip": "91.92.219.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Take do get new arm air. Follow list message instead task professional short. Seek citizen city your computer purpose with.",
+        "bio": "Of cell goal learn else. Guy government reveal miss. Also Congress relate discover door body."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
