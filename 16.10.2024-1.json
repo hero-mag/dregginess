@@ -1,0 +1,25 @@
+{
+    "name": "Alexander Wilson",
+    "age": 45,
+    "address": {
+        "street": "Meghan Square",
+        "city": "Johnburgh",
+        "state": "West Virginia",
+        "zip": "05201"
+    },
+    "contact": {
+        "phone": "371.577.1256x3654",
+        "servicePhone": "800956789"
+    },
+    "birthday": "1980-08-07",
+    "ip": "165.185.255.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Over action tend product letter present amount. Charge school time degree. Why music interest media catch.",
+        "bio": "Serve civil difference on. Season decision any ability western recently approach.\nReceive despite language rate lose not leave. Clear gun color while quickly. Meeting life him sure."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
