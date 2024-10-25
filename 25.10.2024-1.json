@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Hess",
+    "age": 14,
+    "address": {
+        "street": "Alan Coves",
+        "city": "North Michelleville",
+        "state": "Pennsylvania",
+        "zip": "76875"
+    },
+    "contact": {
+        "phone": "331-350-5517x374",
+        "servicePhone": "800394192"
+    },
+    "birthday": "2011-13-12",
+    "ip": "208.98.205.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Record part go safe similar. Campaign yet special behind discuss sense.\nDo may of million trial difficult up. Person TV energy commercial hospital degree grow.",
+        "bio": "Break always foreign. Scientist include event authority statement meeting process. Pick decision fire building tell their. Range yes war."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
