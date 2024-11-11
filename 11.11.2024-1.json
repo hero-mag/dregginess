@@ -1,0 +1,25 @@
+{
+    "name": "Brandy Davis",
+    "age": 1,
+    "address": {
+        "street": "Charles Locks",
+        "city": "West April",
+        "state": "Missouri",
+        "zip": "08837"
+    },
+    "contact": {
+        "phone": "+1-491-463-0393x30969",
+        "servicePhone": "800618259"
+    },
+    "birthday": "2024-28-06",
+    "ip": "173.10.107.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Middle wife wife different. Outside notice garden responsibility age end level.\nDark throw his expert act man treatment special. Data measure run.",
+        "bio": "Yet defense protect answer. You apply partner event."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
