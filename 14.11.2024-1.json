@@ -1,0 +1,25 @@
+{
+    "name": "Jeffery Hanna",
+    "age": 15,
+    "address": {
+        "street": "Haynes Spur",
+        "city": "West Jade",
+        "state": "New Jersey",
+        "zip": "70230"
+    },
+    "contact": {
+        "phone": "(400)570-2903x1541",
+        "servicePhone": "800677041"
+    },
+    "birthday": "2010-25-12",
+    "ip": "204.48.43.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Figure success job attack support three thought become. Despite prevent among never probably. Organization all concern newspaper.\nFinally raise key until.",
+        "bio": "Continue go system catch gun whose. Movie stuff measure could. Trip guess ball fear commercial trial.\nAdministration including type data. With decision trade."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
