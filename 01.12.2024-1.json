@@ -1,0 +1,25 @@
+{
+    "name": "Eric Haynes",
+    "age": 45,
+    "address": {
+        "street": "Simpson Key",
+        "city": "East Mariamouth",
+        "state": "Texas",
+        "zip": "75887"
+    },
+    "contact": {
+        "phone": "(400)855-4291x4132",
+        "servicePhone": "800301023"
+    },
+    "birthday": "1980-15-09",
+    "ip": "154.211.73.226",
+    "foo": "bar",
+    "profile": {
+        "about": "War money later laugh. Admit skill present city pull plant. Respond board strong difficult form design.",
+        "bio": "Chair time reach dark something. Level do catch speech. Democrat discover into smile job represent. Range yard worker example."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
