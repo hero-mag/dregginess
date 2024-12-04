@@ -1,0 +1,25 @@
+{
+    "name": "Andre Silva",
+    "age": 109,
+    "address": {
+        "street": "Sparks Mountain",
+        "city": "Larsenton",
+        "state": "Nevada",
+        "zip": "53898"
+    },
+    "contact": {
+        "phone": "(262)286-1432",
+        "servicePhone": "800578364"
+    },
+    "birthday": "1916-09-08",
+    "ip": "194.82.16.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Beat teach financial yourself both case. Shoulder per cell growth same PM. Tv service care particularly land.",
+        "bio": "Billion use walk current buy. Water someone whom executive husband several budget.\nSubject change together most wall affect."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
