@@ -1,0 +1,25 @@
+{
+    "name": "Laura Scott",
+    "age": 34,
+    "address": {
+        "street": "Ryan Views",
+        "city": "Port Cody",
+        "state": "Missouri",
+        "zip": "57372"
+    },
+    "contact": {
+        "phone": "913.719.3324x854",
+        "servicePhone": "800253736"
+    },
+    "birthday": "1991-04-01",
+    "ip": "32.151.198.244",
+    "foo": "bar",
+    "profile": {
+        "about": "Product field organization these campaign benefit.\nKid despite read idea. Group cup view station wear them.",
+        "bio": "Black anything discussion respond rate join somebody. Kind other far bit your.\nCheck pull one. Develop address itself each. Happy animal live wear kind build."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
