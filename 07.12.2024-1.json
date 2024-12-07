@@ -1,0 +1,25 @@
+{
+    "name": "Peter Price",
+    "age": 50,
+    "address": {
+        "street": "Craig Burgs",
+        "city": "Graystad",
+        "state": "Kentucky",
+        "zip": "65585"
+    },
+    "contact": {
+        "phone": "001-378-334-4453x4203",
+        "servicePhone": "800542197"
+    },
+    "birthday": "1975-12-08",
+    "ip": "153.186.153.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Thought left where sea child range. Performance all similar. Worry pick affect phone. Its clearly American among.\nHand street building white. Congress her doctor foreign control research stuff.",
+        "bio": "Thing movement stop item. Drive over eye use eight land. Arm sure fish college business computer which. Former work two specific technology single."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
