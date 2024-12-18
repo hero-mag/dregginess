@@ -1,0 +1,25 @@
+{
+    "name": "Erin Mcconnell",
+    "age": 18,
+    "address": {
+        "street": "Eric Meadow",
+        "city": "South Adam",
+        "state": "Arkansas",
+        "zip": "01628"
+    },
+    "contact": {
+        "phone": "001-388-399-5513x5275",
+        "servicePhone": "800383098"
+    },
+    "birthday": "2007-17-05",
+    "ip": "118.101.119.254",
+    "foo": "bar",
+    "profile": {
+        "about": "Whose good realize successful what decade unit. Far agent carry red rule top report.\nBuy half old artist both way.",
+        "bio": "Night out compare believe. Face concern thing like machine. There represent difficult person lose stop put.\nMyself team face quality enough weight become. Bit always check."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
