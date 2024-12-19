@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Smith",
+    "age": 26,
+    "address": {
+        "street": "Michelle Valley",
+        "city": "North Wandabury",
+        "state": "Rhode Island",
+        "zip": "08295"
+    },
+    "contact": {
+        "phone": "439-787-9423x85225",
+        "servicePhone": "800647205"
+    },
+    "birthday": "1999-31-01",
+    "ip": "81.246.184.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Rule employee miss everything sport kitchen allow. Environmental keep security leave office.\nOffice other less staff can build camera. Safe painting dinner ask.",
+        "bio": "Which weight take low police crime no. Need arrive would several hear. Life born son sea. Light actually break once."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
