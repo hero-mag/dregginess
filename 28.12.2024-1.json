@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Williams",
+    "age": 88,
+    "address": {
+        "street": "Rogers Creek",
+        "city": "Vangview",
+        "state": "Washington",
+        "zip": "74634"
+    },
+    "contact": {
+        "phone": "825.614.8083",
+        "servicePhone": "800086580"
+    },
+    "birthday": "1937-13-12",
+    "ip": "135.116.162.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Throw early certainly fact peace. Piece number poor various. From control recently so usually better dark suffer.",
+        "bio": "Information month interest effect view likely increase student. Simple court father together wonder.\nVarious boy method be."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
