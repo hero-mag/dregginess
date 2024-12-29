@@ -1,0 +1,25 @@
+{
+    "name": "Jorge Doyle",
+    "age": 84,
+    "address": {
+        "street": "Moss Passage",
+        "city": "Danielton",
+        "state": "Nebraska",
+        "zip": "81677"
+    },
+    "contact": {
+        "phone": "(407)375-4118",
+        "servicePhone": "800530466"
+    },
+    "birthday": "1941-27-10",
+    "ip": "221.11.136.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Include summer put pretty here. Box kitchen still after full.\nQuickly three nearly phone realize group choice staff. Language only add which. Interesting society something accept.",
+        "bio": "Magazine center nice technology size public. Long unit indeed decide focus material sound.\nPass throughout summer small.\nCut population story bar fast. Mind goal environment reflect."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
