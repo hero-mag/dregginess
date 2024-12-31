@@ -1,0 +1,25 @@
+{
+    "name": "Vanessa Salazar",
+    "age": 68,
+    "address": {
+        "street": "Jodi Lane",
+        "city": "South Janet",
+        "state": "Indiana",
+        "zip": "90495"
+    },
+    "contact": {
+        "phone": "+1-979-990-2238x909",
+        "servicePhone": "800259695"
+    },
+    "birthday": "1957-18-03",
+    "ip": "75.204.105.23",
+    "foo": "bar",
+    "profile": {
+        "about": "Area rather tonight street organization push. Question sister ten when factor. Few thus treat want begin determine level.",
+        "bio": "Thought determine girl though car tonight herself.\nArtist include finish few fall. Identify result everyone effect."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
