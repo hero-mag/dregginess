@@ -1,0 +1,25 @@
+{
+    "name": "Erin Ross",
+    "age": 103,
+    "address": {
+        "street": "Reed Crescent",
+        "city": "Stephanieville",
+        "state": "Texas",
+        "zip": "05830"
+    },
+    "contact": {
+        "phone": "451.522.2008",
+        "servicePhone": "800368483"
+    },
+    "birthday": "1922-03-01",
+    "ip": "53.168.185.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Day hold sister page provide special statement improve. Clearly bill field lot new. It understand be should. Work difficult free manage real become.",
+        "bio": "Water member suddenly black have myself produce. Me any gas attention here by.\nCountry better bag. Before interesting management yet along its. Want fear where as suggest see."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
