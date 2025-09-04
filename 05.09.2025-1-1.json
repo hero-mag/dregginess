@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Kara Simmons",
+    "age": 27,
+    "address": {
+        "street": "Laura Forges",
+        "city": "Port Melissaborough",
+        "state": "Iowa",
+        "zip": "77217"
+    },
+    "contact": {
+        "phone": "(740)640-5273",
+        "servicePhone": "800716899"
+    },
+    "birthday": "1998-16-06",
+    "ip": "96.7.182.215",
+    "foo": "bar",
+    "profile": {
+        "about": "End offer safe great official goal. Occur society buy whole. Police project present fund.\nAble science station fear loss ahead degree. Commercial but suggest traditional.",
+        "bio": "Even manage candidate house industry cup reduce. Think car enter line. Market range Mr seem."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
