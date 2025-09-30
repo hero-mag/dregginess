@@ -1,0 +1,25 @@
+{
+    "name": "Theresa Lee",
+    "age": 101,
+    "address": {
+        "street": "Deborah Vista",
+        "city": "Albertside",
+        "state": "Maryland",
+        "zip": "15258"
+    },
+    "contact": {
+        "phone": "001-803-514-9208x680",
+        "servicePhone": "800079957"
+    },
+    "birthday": "1924-04-05",
+    "ip": "70.110.188.202",
+    "foo": "bar",
+    "profile": {
+        "about": "Half trouble manage collection. Several ground carry phone their. Need north world successful shoulder.",
+        "bio": "Fast way past alone paper. Anyone study culture member focus country next list."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
