@@ -1,0 +1,25 @@
+{
+    "name": "Katherine Barber",
+    "age": 74,
+    "address": {
+        "street": "Mclaughlin Spur",
+        "city": "Mayhaven",
+        "state": "Rhode Island",
+        "zip": "63140"
+    },
+    "contact": {
+        "phone": "001-376-817-8020x22910",
+        "servicePhone": "800612967"
+    },
+    "birthday": "1951-05-11",
+    "ip": "58.38.250.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Cold particularly couple relate material. Price just many miss just garden. Direction wall significant national for.\nDebate suffer position several. Machine size nor grow board decision production.",
+        "bio": "Person report way keep speech mention heart. Skill position social least station research. Heart personal operation look friend claim."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
