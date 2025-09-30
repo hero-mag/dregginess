@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Mckinney",
+    "age": 66,
+    "address": {
+        "street": "Chris Views",
+        "city": "New Marieside",
+        "state": "Nevada",
+        "zip": "50716"
+    },
+    "contact": {
+        "phone": "001-862-438-4859x171",
+        "servicePhone": "800198632"
+    },
+    "birthday": "1959-09-10",
+    "ip": "91.21.9.254",
+    "foo": "bar",
+    "profile": {
+        "about": "First heart magazine ten own type fill picture. Quality hospital TV his.\nKid group drug level same religious into. Newspaper kitchen center behavior.",
+        "bio": "Well whatever building edge seven behind ago. American home foreign box despite.\nEnvironment ever seat even break concern way. Growth reach win trip property identify perhaps similar."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
