@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Kevin Malone",
+    "age": 38,
+    "address": {
+        "street": "Frazier Ports",
+        "city": "Williamfurt",
+        "state": "Maine",
+        "zip": "05836"
+    },
+    "contact": {
+        "phone": "(834)224-9522",
+        "servicePhone": "800206827"
+    },
+    "birthday": "1987-11-03",
+    "ip": "72.240.15.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Outside part traditional fact. Until friend lawyer defense pretty. Almost allow pick in leader tax ahead enjoy. Consider current space door.\nFact none of business structure hear mission cultural.",
+        "bio": "Drug start law opportunity into good. Ten rock nation or service office American. South event somebody recent president.\nMore able animal choose audience standard rate life. Behind population true."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
