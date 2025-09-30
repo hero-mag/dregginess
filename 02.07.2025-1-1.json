@@ -1,0 +1,25 @@
+{
+    "name": "Hannah Scott",
+    "age": 38,
+    "address": {
+        "street": "Tracey Drives",
+        "city": "Robertchester",
+        "state": "Idaho",
+        "zip": "98143"
+    },
+    "contact": {
+        "phone": "(559)642-0151",
+        "servicePhone": "800226022"
+    },
+    "birthday": "1987-12-01",
+    "ip": "23.172.146.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Through perhaps candidate. Police customer provide. Less recent fine physical help. Begin consumer professional drive sell cultural.",
+        "bio": "Oil near bad scene play law. One air wish reduce friend imagine among.\nNecessary officer collection economic rich. Recently tough pass send stuff trouble almost. Short success save indeed rise."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
