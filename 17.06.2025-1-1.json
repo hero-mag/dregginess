@@ -1,0 +1,25 @@
+{
+    "name": "Erika Cruz",
+    "age": 60,
+    "address": {
+        "street": "Green Green",
+        "city": "North Georgefort",
+        "state": "Michigan",
+        "zip": "55040"
+    },
+    "contact": {
+        "phone": "5334774178",
+        "servicePhone": "800262977"
+    },
+    "birthday": "1965-21-01",
+    "ip": "142.241.108.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Hold boy physical hundred. Democratic away include now.\nAccept second key own certain strategy only race. Fear least ask present over.",
+        "bio": "Also skill important message dream yourself."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}

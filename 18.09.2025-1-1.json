@@ -1,0 +1,25 @@
+{
+    "name": "Jason Hayden",
+    "age": 82,
+    "address": {
+        "street": "Wendy Field",
+        "city": "Sarahhaven",
+        "state": "Tennessee",
+        "zip": "19404"
+    },
+    "contact": {
+        "phone": "+1-760-567-2397x9720",
+        "servicePhone": "800152968"
+    },
+    "birthday": "1943-10-11",
+    "ip": "36.37.102.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Stage position development method agreement forward business mouth. Door try and. Vote sign fire black open human discover individual. Participant happy city first.",
+        "bio": "Take bad field table result crime exactly.\nWin election back style five. Particular stay difficult enjoy act. Daughter hit college full production prevent continue concern."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
