@@ -1,0 +1,25 @@
+{
+    "name": "Crystal Morales",
+    "age": 29,
+    "address": {
+        "street": "Osborne Manors",
+        "city": "Jennifermouth",
+        "state": "South Dakota",
+        "zip": "67938"
+    },
+    "contact": {
+        "phone": "(814)229-5821x86689",
+        "servicePhone": "800628190"
+    },
+    "birthday": "1996-06-05",
+    "ip": "125.43.99.123",
+    "foo": "bar",
+    "profile": {
+        "about": "Herself ten defense collection security visit. Response child local mission dream exist maintain.\nYear consider research feel degree friend. Rule apply walk. Company human window option.",
+        "bio": "Be control discuss himself. Few end ahead whole machine save.\nReal reason message good small.\nAlmost join technology. Education action cup successful either."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
